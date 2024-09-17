@@ -1,28 +1,28 @@
 {
-    "posts": [
-      {
-        "id": "1",
-        "title": "Learning React",
-        "datetime": "July 01, 2024 11:17:36 AM",
-        "body": "Normalizr is a library used to normalize nested JSON data into a flat structure. It is particularly useful when dealing with relational data fetched from an API, making it easier to store in a Redux store"
-      },
-      {
-        "id": "2",
-        "title": "Second post",
-        "datetime": "July 16, 2021 11:47:48 AM",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
-      },
-      {
-        "id": "3",
-        "title": "Gumber Three",
-        "datetime": "August 28, 2024 3:20:45 AM",
-        "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
-      {
-        "id": "4",
-        "title": "Hello There Friend",
-        "datetime": "September 16, 2024 3:05:21 PM",
-        "body": "Gib me wataaer"
-      }
-    ]
-  }
+  "posts": [
+    {
+      "id": "1",
+      "title": "Learning React",
+      "datetime": "July 01, 2024 11:17:36 AM",
+      "body": "Normalizr is a library used to normalize nested JSON data into a flat structure. It is particularly useful when dealing with relational data fetched from an API, making it easier to store in a Redux store"
+    },
+    {
+      "id": "2",
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
+    },
+    {
+      "id": "3",
+      "title": "Gumber Three",
+      "datetime": "August 28, 2024 3:20:45 AM",
+      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "4",
+      "title": "Hello There Friends",
+      "datetime": "September 17, 2024 2:33:46 AM",
+      "body": "Gib me wataaerrer"
+    }
+  ]
+}
