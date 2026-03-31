@@ -51,6 +51,11 @@ body {
   font-size: 1.5rem;
 }
 
+.Header a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .Header svg {
   font-size: 2rem;
 }

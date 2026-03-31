@@ -5,10 +5,6 @@ const Nav = () => {
     const { search, setSearch } = useStore();
     const location = useLocation();
 
-    const handleHomeClick = () => {
-        setSearch('');
-    };
-
     const hideSearch = location.pathname === '/post' || /^\/edit\/\d+/.test(location.pathname);
 
     return (
@@ -26,7 +22,7 @@ const Nav = () => {
             </form>
             )}
             <ul>
-                <li><Link to="/" onClick={handleHomeClick}>Home</Link></li>
+                <li><Link to="/" onClick={() => setSearch('')}>Home</Link></li>
                 <li><Link to="/post">Post</Link></li>
                 <li><Link to="/about">About</Link></li>
             </ul>
