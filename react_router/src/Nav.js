@@ -23,8 +23,8 @@ const Nav = () => {
             )}
             <ul>
                 <li><Link to="/" onClick={() => setSearch('')}>Home</Link></li>
-                <li><Link to="/post">Post</Link></li>
-                <li><Link to="/about">About</Link></li>
+                <li><Link to="/post" onClick={() => setSearch('')}>Post</Link></li>
+                <li><Link to="/about" onClick={() => setSearch('')}>About</Link></li>
             </ul>
         </nav>
     )

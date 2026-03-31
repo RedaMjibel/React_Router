@@ -24,5 +24,6 @@
       "datetime": "September 17, 2024 2:33:46 AM",
       "body": "Gib me wataaerrer"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
